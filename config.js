@@ -59,7 +59,7 @@ global.ppulsa2 = '083152910041'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283826153248'
+global.nomorbot = '6289527052139'
 global.nomorown = '6283152910041'
 global.namebot = 'PyBot MD'
 global.nameown = 'Lanz'
@@ -99,9 +99,9 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': '2b7848cc6b5ffa53',
+  'https://api.xteam.xyz': 'ef6114e6bc365191',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': '53db5d2633e34567181a824a',
+  'https://api.lolhuman.xyz': '06aef819aecca0490185729d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
