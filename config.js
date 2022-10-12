@@ -59,7 +59,7 @@ global.ppulsa2 = '083152910041'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289527052139'
+global.nomorbot = '6282193521669'
 global.nomorown = '6283152910041'
 global.namebot = 'PyBot MD'
 global.nameown = 'Lanz'
